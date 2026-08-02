@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+.venv-1/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets
+dataset/
+training_data/
+
+# Large 3D models (optional)
+Test_Box/Plant.obj
+Test_Box/Christmas Bear.obj
+Test_Box/Church.obj
